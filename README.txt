@@ -25,7 +25,7 @@ If desired, please contact either Kurt or Sam.
 
 
 
-Detailed Project Description:
+Project Description:
 The broader objective of our project is to create a smart recipe recorder and instructor. Essentially, you can either 1) make a recipe-free dish, in which you add ingredients at will and a smart device films and records the recipe, or 2) you can create a saved recipe, where the device tells you when to stop pouring a specified ingredients. We wanted to apply machine learning and computer vision to teach phones how to measure for us. As a first step, our project will focus on volume prediction of a poured liquid.         
 
 Experiments:   Data was collected from a series of experiments where known volumes of dyed water were poured and recorded from an iPhone. Volumes up to 4 cups in ¼ cup increments were be tested, with ~20 videos for each volume. Videos were filmed with a white backdrop for high color contrast. A ruler was included in the backdrop to convert pixel count to length.
