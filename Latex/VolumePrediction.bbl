@@ -1,0 +1,45 @@
+\begin{thebibliography}{}
+
+\bibitem[Cromwell et~al., 2015]{cromwell2015}
+Cromwell, E., Galeota-Sprung, J., and Ramanujan, R. (2015).
+\newblock Computational creativity in the culinary arts.
+\newblock In {\em FLAIRS Conference}, pages 38--42.
+
+\bibitem[Forbes and Zhu, 2011]{forbes2011}
+Forbes, P. and Zhu, M. (2011).
+\newblock Content-boosted matrix factorization for recommender systems:
+  experiments with recipe recommendation.
+\newblock In {\em Proceedings of the fifth ACM conference on Recommender
+  systems}, pages 261--264. ACM.
+
+\bibitem[Freyne and Berkovsky, 2010]{freyne2010}
+Freyne, J. and Berkovsky, S. (2010).
+\newblock Recommending food: Reasoning on recipes and ingredients.
+\newblock {\em User modeling, adaptation, and personalization}, pages 381--386.
+
+\bibitem[Friedman et~al., 2001]{friedman2001}
+Friedman, J., Hastie, T., and Tibshirani, R. (2001).
+\newblock {\em The elements of statistical learning}, volume~1.
+
+\bibitem[Kamieth et~al., 2011]{kamieth2011}
+Kamieth, F., Braun, A., and Schlehuber, C. (2011).
+\newblock Adaptive implicit interaction for healthy nutrition and food intake
+  supervision.
+\newblock {\em Human-Computer Interaction. Towards Mobile and Intelligent
+  Interaction Environments}, pages 205--212.
+
+\bibitem[MATLAB and Statistics Toolbox, 017b]{Matlab}
+MATLAB and Statistics Toolbox (2017b).
+\newblock Matlab and statistics toolbox.
+
+\bibitem[Moley-Robotics, 2014]{Moley2014}
+Moley-Robotics (2014).
+\newblock Moley.
+
+\bibitem[Ueda et~al., 2011]{ueda2011}
+Ueda, M., Takahata, M., and Nakajima, S. (2011).
+\newblock User’s food preference extraction for personalized cooking recipe
+  recommendation.
+\newblock In {\em Workshop of ISWC}, pages 98--105.
+
+\end{thebibliography}
